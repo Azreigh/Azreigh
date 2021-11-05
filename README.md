@@ -1,7 +1,6 @@
 ### Hello there!
 
-Here are some ideas to get you started:
-
+Here is some info about me:
 - 🔭 I’m currently working on Paper Mario: The Petal Pursuit and other personal projects.
 - 🌱 I’m currently learning GDScript and Python.
 - 💬 Ask me about video games.
