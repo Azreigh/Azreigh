@@ -13,7 +13,7 @@ Here is some info about me:
 - 🌱 I’m currently learning the following programming languages: GDScript, Python, C/C#/C++ and Rust. `// This is probably too many at once`
 - 📚 I want to learn the following languages: Japanese and Latin.
 - 📫 How to reach me: you don't.
-- ⚡ Fun fact: `Error: I don't have a fun fact`
+- ⚡ Fun fact: `Error: I don't have a fun fact lmao`
 
 # Projects
 - [ ] GUI-Based App Creator Tool
