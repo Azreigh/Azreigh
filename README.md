@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hi! I'm Azreigh! I use She/Her pronouns and I'm a programmer interested in Software/Game development. <br />
+Hi! I'm Azreigh! I'm a programmer interested in Software/Game development. <br />
 
 ### Application Choices
 
