@@ -28,5 +28,6 @@ Here is some info about me:
 # Projects I wish to complete
 
 - [ ] Full Purpose IDE (Using C++, C or Rust)
+- [ ] Application that handles website content (usually statically)
 - [ ] Game Engine like RPG Maker (but open source and with more options)
 - [ ] Open-source alternative to NESmaker
