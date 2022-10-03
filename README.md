@@ -1,10 +1,10 @@
-[![Azreigh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azreigh&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Tulip's GitHub stats](https://github-readme-stats.vercel.app/api?username=tulip-sudo&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # Personal
 
 ## About Me
 
-Hi! I'm Azreigh! I'm a programmer interested in Software/Game development. <br />
+Hi! I'm Tulip! I'm a programmer interested in Software/Game development. <br />
 
 ### Application Choices
 
