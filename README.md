@@ -16,13 +16,17 @@ I prefer using Linux distributions with [KDE Plasma](https://kde.org/plasma-desk
 
 I currently use KDE Neon.
 
+## Socials
+- <a rel="me" href="https://floss.social/@Tulip">Mastodon</a>
+- <a href="https://www.youtube.com/@TulipSudo">YouTube</a>
+
 ## Quick Runthrough
 
 Here is some info about me:
 
 - 🔭 I’m currently working on Paper Mario: The Petal Pursuit and other personal projects.
 - 🌱 I’m currently learning the following programming languages: GDScript v2, Python, C/C#/C++ and Rust. `// This is probably too many at once`
-- 📫 How to reach me: Message me on [Mastodon](https://floss.social/@Tulip).
+- 📫 How to reach me: Message me on <a rel="me" href="https://floss.social/@Tulip">Mastodon</a>.
 - ⚡ Fun fact: `Error: I don't have a fun fact lmao`
 
 # Projects I wish to complete
