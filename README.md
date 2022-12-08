@@ -30,7 +30,9 @@ Here is some info about me:
 - ⚡ Fun fact: `Error: I don't have a fun fact lmao`
 
 # Projects I wish to complete
-
+## Interested in doing
+- [ ] Monolithic Kernel written in Rust
+## Concept Only
 - [ ] Full Purpose IDE (Using C++, C or Rust)
 - [ ] Application that handles website content (statically)
 - [ ] Game Engine like RPG Maker (but open source and with more options)
