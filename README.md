@@ -31,7 +31,7 @@ Here is some info about me:
 
 # Projects I wish to complete
 ## Interested in doing
-- [ ] Monolithic Kernel written in Rust
+- [ ] Monolithic/Micro Kernel written in Rust
 ## Concept Only
 - [ ] Full Purpose IDE (Using C++, C or Rust)
 - [ ] Application that handles website content (statically)
