@@ -32,7 +32,7 @@ Here is some info about me:
 ## Actively doing
 - [ ] [GUI library for brux-gdk](https://github.com/tulip-sudo/hazel)
 - [ ] [A launcher for the SM64 PC Port using QtQuick and Kirigami](https://github.com/tulip-sudo/Kirigami64)
-## Interested in doing
+## Interested in doing (Somewhat Researched)
 - [ ] Monolithic/Micro Kernel written in Rust
 ## Concept only
 - [ ] Full Purpose IDE (Using C++, C or Rust)
