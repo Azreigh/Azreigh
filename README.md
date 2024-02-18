@@ -1,1 +1,1 @@
-https://codeberg.org/tulpenkiste
+moved to https://codeberg.org/tulpenkiste
